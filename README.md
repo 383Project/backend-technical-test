@@ -1,6 +1,6 @@
-# 383Project - Technical Test
+# 383Project - Backend Technical Test
 
-## General
+## Background
 This test is designed to focus on assessing how developers approach certain tasks, whilst also demonstrating programming
 capability, followed by displaying knowledge of the languages/frameworks/packages.
 
