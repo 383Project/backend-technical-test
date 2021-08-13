@@ -33,4 +33,4 @@ The client has no specific requirements in terms of design.
 week in the users preferred location.
   - Be able to select a single day in order to display more information for that day.
   - Be able to change the location
-- Backend to show signed up users and location
+- Backend for admin to login, which will show a list of signed up users
