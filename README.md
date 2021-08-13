@@ -4,8 +4,6 @@
 This test is designed to focus on assessing how developers approach certain tasks, whilst also demonstrating programming
 capability, followed by displaying knowledge of the languages/frameworks/packages.
 
-Whilst you can spend as long as you would like on it, we recommend you spend no longer than a few hours.
-
 The use of well supported, open source packages is allowed.
 
 You should complete this test yourself and shouldn't outsource any of the work.
