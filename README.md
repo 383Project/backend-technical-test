@@ -12,8 +12,6 @@ You should complete this test yourself and shouldn't outsource any of the work.
 We primarily use Laravel, Wordpress and React/NextJS for our web based systems, among other technologies - so we heavily prefer that you 
 use this stack for this test.
 
-There is the option to make a front end side of this task, but this isn't necessary.
-
 ## The Task
 
 > Note: This is entirely fictional and none of the results from the test will be used by 383Project.
