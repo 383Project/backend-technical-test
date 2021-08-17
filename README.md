@@ -27,10 +27,10 @@ The client has no specific requirements in terms of design.
 ## Phase 1
 
 - Allow a user to sign up to the site.
-  - Collect users preferred location.
+  - Sign up form to include location field which will be recorded into the database.
 - Allow the user to log in to the site.
 - Once logged in, pull and display weather forecasts from the [Open Weather API](https://openweathermap.org/api) for the 
-week in the users preferred location.
+week in the users  recorded location.
   - Be able to select a single day in order to display more information for that day.
   - Be able to change the location
 - Backend for admin to login, which will show a list of signed up users
